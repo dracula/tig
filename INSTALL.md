@@ -1,6 +1,6 @@
 ### [Tig](https://jonas.github.io/tig)
 
-### Introduction
+#### Introduction
 
 According to the [tigrc documentation](https://jonas.github.io/tig/doc/tigrc.5.html#_color_command) valid colors are limited to white, black, green, magenta, blue, cyan, yellow, red, default. Default refers to the default terminal colors. Due to the limitation on available colors, it appears the best option is to theme your terminal, then adjust the tigrc 
 
