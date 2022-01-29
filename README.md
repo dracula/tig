@@ -1,6 +1,6 @@
-# Dracula for [tig](https://github.com/jonas/tig)
+# Dracula for [tig](https://jonas.github.io/tig)
 
-> A dark theme for [tig](https://github.com/jonas/tig).
+> A dark theme for [tig](https://jonas.github.io/tig).
 
 ![Screenshot](./screenshot.png)
 
